@@ -1,6 +1,6 @@
 require('dotenv').config();
 import '@babel/polyfill';
-import RealizarOperacion from './operation/operations';
+//import RealizarOperacion from './operation/operations';
 //const {RealizarOperacion}=require('./operation/operations');
 import scrollPageToBottom from 'puppeteer-autoscroll-down';
 import puppeteer from 'puppeteer';
@@ -34,10 +34,8 @@ async function  Init(){
       //     window.scrollBy(0, window.innerHeight);
       // });
         await page.waitForSelector(listConnectionCard);
-        //let data=[];
         const data=await page.evaluate(()=>
         [...document.querySelectorAll(".mn-connection-card")].map(e=> {
-             
           let ocupacion=e.querySelector('.mn-connection-card__occupation').innerText
                let urlimage=e.querySelector('img').getAttribute('src')
                let nombre=e.querySelector('.mn-connection-card__name').innerText
@@ -47,24 +45,11 @@ async function  Init(){
                     ocupacion
                 }
             })
-           // data.push({ocupacion: e.querySelector('.mn-connection-card__occupation').innerText})  
             )
             await page.close();
             await browser.close();
-           return data;
-            // console.log(data)
-           
-        //  // return data;  
-        //   console.log(data)
-            
-         
+           return data;   
     };
-    //   async function go(){
-    //     const data =await Init();
-    //     console.log(data)
-    // }
-//    Init();
-
 export default Init;
 //Init();
 //go();
