@@ -1,0 +1,49 @@
+
+            nombre:Jean Carlo Gonzalo Arapa
+
+            urlimage:https://media-exp1.licdn.com/dms/image/C4E03AQFfOrGY50xC3Q/profile-displayphoto-shrink_100_100/0?e=1588204800&v=beta&t=XCFfHP19bmn36PXq8zz0lw_Fsxi3G3o0NFJvBomkVFI
+
+            ocupacion:Student Software Engineering
+        
+            nombre:Simón León López
+
+            urlimage:https://media-exp1.licdn.com/dms/image/C4D03AQHgUvnJMouNiQ/profile-displayphoto-shrink_100_100/0?e=1588204800&v=beta&t=8d0DkiztKvP5PKTmu3ovnohjR_Lea5DKvUYECIYYOoE
+
+            ocupacion:Everis Digital Lab
+        
+            nombre:Alvaro Jesus Huaman Martinez
+
+            urlimage:https://media-exp1.licdn.com/dms/image/C4E03AQFeAbTHMD_fhw/profile-displayphoto-shrink_100_100/0?e=1588204800&v=beta&t=yPVrZFVj87CQUWojg2BkMYXKhBBiKBLYWNz7hLyGQ1k
+
+            ocupacion:Estudiante en Cibertec
+        
+            nombre:Franklin Yoan Campos Vilchez
+
+            urlimage:https://media-exp1.licdn.com/dms/image/C5603AQFUqIRjHLhQDg/profile-displayphoto-shrink_100_100/0?e=1588204800&v=beta&t=barbGsDyZtv5zk_R2tHsEtFIEvOFv0XoDgyGTLg3UjE
+
+            ocupacion:Programador , desarrollo web y android en lenguajes como Java , PHP, C# y JS .
+        
+            nombre:Jhan Christian Calderon Mariano
+
+            urlimage:https://media-exp1.licdn.com/dms/image/C4E03AQF4MjvqQTrwdw/profile-displayphoto-shrink_100_100/0?e=1588204800&v=beta&t=Hmfbc3oU_li5vL85Tw286IWos2yHzaQoSF6oVPCVP3I
+
+            ocupacion:Bootcamper en Asociación Hack Space Perú
+        
+            nombre:Lesly Veronica Samaritano Ayala
+
+            urlimage:https://media-exp1.licdn.com/dms/image/C4E03AQECP_32kuYOXQ/profile-displayphoto-shrink_100_100/0?e=1588204800&v=beta&t=KgUBLZ5HyVuz_BoQ_dXv-XjBCJ_G8lD7T8YIOMU30rU
+
+            ocupacion:Estudiante en Ingeniería de sistemas e informática en la Universidad Tecnológica del Perú
+        
+            nombre:Norma Merino
+
+            urlimage:https://media-exp1.licdn.com/dms/image/C5103AQH_UTfZYyKF4g/profile-displayphoto-shrink_100_100/0?e=1588204800&v=beta&t=7RJt_dxaAqu5HcvJF--2NcdENagFbfTDipbCv8qYF-Y
+
+            ocupacion:Practicante en Krowdy
+        
+            nombre:Flor Ballinas
+
+            urlimage:https://media-exp1.licdn.com/dms/image/C5603AQFdMktnxJMN0g/profile-displayphoto-shrink_100_100/0?e=1588204800&v=beta&t=LgrKxIg0RuJcI7ZcRINAemifUmXT55aF02I4REU-8a0
+
+            ocupacion:UI Designer en AprendeHoy | Experiencia en Fashion Design
+        
