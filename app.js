@@ -36,8 +36,6 @@ async function  Init(){
         await page.waitForSelector(listConnectionCard);
         //let data=[];
         const data=await page.evaluate(()=>
-        
-           
         [...document.querySelectorAll(".mn-connection-card")].map(e=> {
              
           let ocupacion=e.querySelector('.mn-connection-card__occupation').innerText
@@ -51,9 +49,11 @@ async function  Init(){
             })
            // data.push({ocupacion: e.querySelector('.mn-connection-card__occupation').innerText})  
             )
-            console.log(data)
-             await page.close();
-             await browser.close();
+            await page.close();
+            await browser.close();
+           return data;
+            // console.log(data)
+           
         //  // return data;  
         //   console.log(data)
             
@@ -65,6 +65,6 @@ async function  Init(){
     // }
 //    Init();
 
-//export default Init;
-Init();
+export default Init;
+//Init();
 //go();
